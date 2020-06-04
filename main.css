@@ -1,6 +1,6 @@
 body {
 	/*background-color: blue;*/
-	background-image: url("./fireplace_gif.gif");
+	background-image: url("./src/fireplace.gif");
 	background-size: cover;
 	background-attachment: fixed; /*This and the next line make the parallax effect*/
 	background-position: center;
