@@ -21,3 +21,28 @@ a {
 	background-color: rgba(0, 0, 0, 0.8);
 	color: rgb(102, 0, 255);
 }
+
+/*CSS for Navigation Bar below */
+.topnav {
+	overflow: hidden;
+	float: right;
+}
+
+.topnav a {
+	background-color: darkgreen;
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover {
+	background-color: green;
+}
+
+.topnav a.active {
+	background-color: black;
+}
+/*Finished with Navigation Bar code */
